@@ -1,1 +1,1 @@
-# cirhosis-classification-data-analysis
+# cirhosis-classification-machine-learning
