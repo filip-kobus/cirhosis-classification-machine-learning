@@ -1,6 +1,6 @@
 Model,Data Type,Accuracy,Stage 1 Misclassification,Stage 2 Misclassification,Stage 3 Accuracy,Stage 4 Accuracy,Misclassification Error
-Decision Tree,Detailed,57%,No correct classification,Overestimated to stage 3/4,High accuracy,High accuracy,Max 1 stage error
-Decision Tree,Basic,57%,No correct classification,Overestimated to stage 3/4,High accuracy,High accuracy,Max 1 stage error
+Decision Tree,Detailed,54%,No correct classification,Overestimated to stage 3/4,High accuracy,High accuracy,Max 1 stage error
+Decision Tree,Basic,56%,No correct classification,Overestimated to stage 3/4,High accuracy,High accuracy,Max 1 stage error
 Gaussian Naive Bayes,Detailed,47%,Misclassified up to 2 stages,"Misclassified, mostly to stage 3",Low accuracy,High accuracy,Up to 3 stages misclassified
 Gaussian Naive Bayes,Basic,53%,Misclassified,Mostly to stage 3,High accuracy,High accuracy,Stage 2 mostly misclassified
 KNN,Detailed,46%,"Misclassified, limited data",Predominantly to stage 3,High accuracy,High accuracy,Max 2 stages misclassified
